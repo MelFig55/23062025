@@ -43,7 +43,8 @@ def clasificar_sueldos():
             t3 += 1
             total += rank[0]
 
-### Despues lo arreglo con los detalles que piden en la guia, tengo la mente en blanco, dejare las bases y despues lo arreglo, no puedo pensar estoy como en blanco
+### Despues lo arreglo con los detalles que piden en la guia, tengo la mente en blanco, dejare las bases y despues lo arreglo, no puedo pensar estoy como en blanco, esta todo a la mitad y como de prototipo para testeo
+### falta aun
 
 
 def ver_stats():
